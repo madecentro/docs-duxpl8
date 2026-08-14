@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-at204s.salamcuanwin.sbs/sitemap.xml
